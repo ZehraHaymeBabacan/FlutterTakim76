@@ -41,35 +41,29 @@ Flutter Takım 76
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/Sprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/trello.jpeg) 
+![Backlog 2](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/trello_2.jpeg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/homepage.jpeg)
+  ![Screenshot 2](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/logo.jpeg)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Ürünümüzün bir veri tabanına sahip olması gerektiği belirlenmiş fakat veri tabanı içeriklerinin kullanıcılar tarafınfan olşturlacağı göz ününde bulundurulunca küçük bir örnek seneryo yapılması kararlanmıştır. Bu senoya seneya daha sonraki sprintlere bırakılmıştır. Çıkan ürünün web üzerinde çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. 
+Sprint Review katılımcıları: Tüm takım üyeleri kayılmıştır.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Görev dağılımında bazı değişiklikler yapılmıştır.
+  - Developerlarımızın ürün üzerine daha fazla ayrıntılı çalışması gerektiği karar alınmışıtır.
+  - Ürünümüzün web uygulama formunun mobil uygulma formuna dönüştürülmesi planlanmıştır.
+ 
 
 -**Diğer Notlar**:
-- N/A
+- Takımımız için bir GitHub hesabı oluşturulmamış takım üyelerimizden Zehra Hayme Babacan'ın hesabı üzerinden public FLutterTakim76 Adlı bu dosyanında içinde bulundupu alan kullanılmaktadır.
+- Projemize ait diğer dosyalar Fotoğraflar bölümünde bulunmaktadır.
 
 ---
 
