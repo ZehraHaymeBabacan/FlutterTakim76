@@ -1,37 +1,35 @@
 # **Takım İsmi**
 
-Takım X
+Flutter Takım 76
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Fahrettin Gökhun Tokay: Product Owner
+- Aybüke Maraş: Scrum Master
+- Ali Akkaya: Team Member/Developer
+- Olivia Üzümcü: Team Member/Developer
+- Zehra Hayme Babacan: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--Mordor Ticaret--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Mordor Ticaret uygulamamız ile e-sporcular, oyuncular için oyun içi alım satım yapabilmesini sağlayacağız. Kullanıcılarımız sahip oldukları hesapları üzerinden hem kendi ürünlerini satışa çıkarabilecek hem de diğer kullanıcıların satışa sundukları ürünleri görüntüleyip satın alabileceklerdir.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Ürün satışa sunabilme,
+- Ürün satın alabilme,
+- Farklı ürün katagorilerini görüntüleme.
 
 ## Hedef Kitle
-
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- e-sporcular,
+- Oyuncular,
+- 15 - 40 yaş arası kullanıcılar.
 
 ## Product Backlog URL
 
