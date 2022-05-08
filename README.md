@@ -33,7 +33,7 @@ Flutter Takım 76
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[TrelloPano](https://trello.com/invite/b/BL40sIsI/0257dbbb47f8379a63b6dd3d133a325f/team-76)
 
 ---
 
