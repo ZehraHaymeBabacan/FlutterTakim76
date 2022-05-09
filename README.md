@@ -40,6 +40,8 @@ Flutter Takım 76
 # Sprint 1
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint içinde tamamlanması gereken toplam puan**: 30
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır dört Spirint'e bölündüğünde birincisinde en az 30 olması beklenmektedir en sonuncu sprint de ise 10 puan kalacak şekilde ayarlanmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/Sprint1.docx)
 
