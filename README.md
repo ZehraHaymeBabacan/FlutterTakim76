@@ -91,7 +91,7 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 - **Sprint Retrospective:**
   - Herkes görevlerini başarıyla tamamlamıştır.
   - Developerlarımız ürünün bazı yerlerinde değişiklik yapmıştır.  
-  - Developerlarımız uygulamanın içinde bulunan ürünler için sayfalar oluşturmayı hedeflemişlerdir.
+  - Developerlarımız uygulamanın içinde bulunan ürünler için sayfalar oluşturmayı ve birkaç ek özellik eklemeyi hedeflemişlerdir.
  
 
 -**Diğer Notlar**:
