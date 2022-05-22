@@ -85,7 +85,7 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
   
 
 - **Sprint Review**: 
-Alınan kararlar: Karşılama sayfası, giriş yap sayfası, kayıt ol sayfası ve şifremi unuttum sayfalarının tasarımında kullanıcıların daha rahat etmesi için değişikliğe gidilmiştir. Çıkan ürünün testlerinde herhangi bir problemle karşılaşılmamıştır. Kullanıcı görüşlerinin toplanması, IU design ve hedef kitle araştırılması gibi konular tamamlanmıştır. Bir sonraki toplantıya kadar görevler belirtilmiştir. 
+Alınan kararlar: Karşılama sayfası, giriş yap sayfası, kayıt ol sayfası ve şifremi unuttum sayfalarının tasarımında kullanıcıların daha rahat etmesi için değişikliğe gidilmiştir. Çıkan ürünün testlerinde herhangi bir problemle karşılaşılmamıştır. Kullanıcı görüşlerinin toplanması, IU design, pazaryeri yazılımlarının araştırılması ve hedef kitle araştırılması gibi konular tamamlanmıştır. Bir sonraki toplantıya kadar birkaç ekstra özellik ve görevler belirtilmiştir. 
 Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 
 - **Sprint Retrospective:**
