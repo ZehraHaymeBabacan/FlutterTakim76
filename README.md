@@ -74,22 +74,22 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 - **Sprint içinde tamamlanması gereken toplam puan**: 30
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır dört Spirint'e bölündüğünde birincisinde en az 30 olması beklenmektedir en sonuncu sprint de ise 10 puan kalacak şekilde ayarlanmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/Sprint1.docx)
+- **Daily Scrum**: Daily Scrum toplantılarını hızlı ve pratik olması nedeniyle Whatsapp'tan yapmaya devam ettik. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/Sprint2.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/trello_3.jpeg) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/homepage.jpeg)
-  ![Screenshot 2](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/logo.jpeg)
+ ![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/yeni_anasayfalar.jpeg)
+  
 
 - **Sprint Review**: 
-Alınan kararlar: Ürünümüzün bir veri tabanına sahip olması gerektiği belirlenmiş fakat veri tabanı içeriklerinin kullanıcılar tarafından olşturlacağı göz ününde bulundurulunca küçük bir örnek seneryo yapılması kararlanmıştır. Bu senoya seneya daha sonraki sprintlere bırakılmıştır. Çıkan ürünün web üzerinde çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. 
+Alınan kararlar: aaaa
 Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 
 - **Sprint Retrospective:**
   - Herkes görevlerini başarıyla tamamlamıştır.
-  - Developerlarımızın ürünün büyük bir çoğunluğunu tamamlamaıştır. 
+  - Developerlarımız ürünün bazı yerlerinde değişiklik yapmıştır.  
  
 
 -**Diğer Notlar**:
