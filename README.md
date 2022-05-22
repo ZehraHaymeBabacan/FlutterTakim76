@@ -80,16 +80,17 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 ![Backlog 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/trello_3.jpeg) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
- ![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/yeni_anasayfalar.jpeg)
+![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/yeni_anasayfalar.jpeg)
   
 
 - **Sprint Review**: 
-Alınan kararlar: aaaa
+Alınan kararlar: Karşılama sayfası, giriş yap sayfası, kayıt ol sayfası ve şifremi unuttum sayfalarının tasarımında kullanıcıların daha rahat etmesi için değişikliğe gidilmiştir. Çıkan ürünün testlerinde herhangi bir problemle karşılaşılmamıştır. Bir sonraki toplantıya kadar görevler belirtilmiştir. 
 Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 
 - **Sprint Retrospective:**
   - Herkes görevlerini başarıyla tamamlamıştır.
   - Developerlarımız ürünün bazı yerlerinde değişiklik yapmıştır.  
+  - Developerlarımız uygulamanın içinde bulunan ürünler için sayfalar oluşturmayı hedeflemişlerdir.
  
 
 -**Diğer Notlar**:
