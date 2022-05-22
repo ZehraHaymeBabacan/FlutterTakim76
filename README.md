@@ -77,7 +77,8 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 - **Daily Scrum**: Daily Scrum toplantılarını hızlı ve pratik olması nedeniyle Whatsapp'tan yapmaya devam ettik. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/Sprint2.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/trello_3.jpeg) 
+![Backlog 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/trello_ekran_goruntusu2.png) 
+![Backlog 2](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/trello_ekran_goruntusu1.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/yeni_anasayfalar.jpeg)
@@ -94,7 +95,7 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
  
 
 -**Diğer Notlar**:
-- Projemize ait diğer dosyalar Fotoğraflar bölümünde bulunmaktadır.
+- Projemize ait diğer dosyaları Fotoğraflar bölümünde bulunmaktadır.
 
 
 ---
