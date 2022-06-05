@@ -41,7 +41,7 @@ Flutter Takım 76
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - **Sprint içinde tamamlanması gereken toplam puan**: 30
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır dört Spirint'e bölündüğünde birincisinde en az 30 olması beklenmektedir en sonuncu sprint de ise 10 puan kalacak şekilde ayarlanmıştır.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır üç Spirint'e bölündüğünde ilk ikisinin en az 30 olması beklenmektedir en sonuncu sprint de ise 40puan kalacak şekilde ayarlanmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/87ed122a461f95c714cbeb7dd98b3100768a18c6/Fotograflar/Sprint1.docx)
 
@@ -72,7 +72,7 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 # Sprint 2
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - **Sprint içinde tamamlanması gereken toplam puan**: 30
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır dört Spirint'e bölündüğünde birincisinde en az 30 olması beklenmektedir en sonuncu sprint de ise 10 puan kalacak şekilde ayarlanmıştır.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır üç Spirint'e bölündüğünde ilk ikisinin en az 30 olması beklenmektedir en sonuncu sprint de ise 40puan kalacak şekilde ayarlanmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarını hızlı ve pratik olması nedeniyle Whatsapp'tan yapmaya devam ettik. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/Sprint2.docx)
 
@@ -101,5 +101,38 @@ Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 ---
 
 # Sprint 3
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint içinde tamamlanması gereken toplam puan**: 40
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır üç Spirint'e bölündüğünde ilk ikisinin en az 30 olması beklenmektedir en sonuncu sprint de ise 40puan kalacak şekilde ayarlanmıştır.
+
+- **Daily Scrum**: Daily Scrum toplantıları farklı programlara sahip olmamız gerekçeleriyle gerçekleştirilememiş olup, ürünün son duruma getirlmesi aşamasında developerlarımız kendi aralarında ikili iletişimler halinde ilerlemişlerdir. Her üye trello üzerinden belirtilmiş görevlerini yerine getirirken bir problem ile karşılaştığında WhatsApp grubumuz üzerinden iletişime geçilmiştir.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3trello1.jpg) 
+![Backlog 2](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3trello2.jpg)
+![Backlog 3](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3trello3.jpg) 
+![Backlog 4](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3trello4.jpg)
+Aşağıdaki görsel projenin tamamlanmış durumunu ifade etmektedir.
+![Backlog 5](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3trello5.jpg) 
+
+- **Ürün Durumu**:
+Aşağıya eklediğimiz ekran görüntüleri dışında dahafazla arayüz görseli Fotoğraflar klasörü içerisinde bulunmkatadır.
+Aynı zamanda ürünun durumu tanıtım videosunda akıcı bir şekilde belitrilecektir.
+  ![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3product3.jpg)
+  ![Screenshot 2](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3product10.jpg)
+  ![Screenshot 3](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/meeting_4.jpeg)
+  
+- **Sprint Review**: 
+Alınan kararlar: Ürünümüzün bir veri tabanına sahip olması gerektiği belirlenmiş fakat veri tabanı içeriklerinin kullanıcılar tarafından oluşturulacağı göz önünde bulundurulunca küçük bir örnek seneryo yapılması kararlanmıştır, bu senaryo tanıtım videosunda da görülecektir. Çıkan ürünün web üzerinde çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler, kullanıcılar için takas sisteminin oluşturulması. Satın alınan ürünün geçmiş sahiplerinin görüntüenebimesi ve ürün üzerinden yorum aracılığla ikili iritbat kurulabilir bir platformun oluşturulabilir.
+Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
+
+- **Sprint Retrospective:**
+  -Ürünün pazarlanabilir olacak kadar planlanmış kısmı tamamlanmıştır.
+  -Trello üzerinden tanımlanan görevlerin hepsi takım üyeleirmiz tarafından yerine getirilmiştir.
+  -Ürünün daha sonrasında nasıl geliştirilebileceği üzerine notlar alınmıştır.
+
+-**Diğer Notlar**:
+- Takımımız için bir GitHub hesabı oluşturulmamış takım üyelerimizden Zehra Hayme Babacan'ın hesabı üzerinden public FLutterTakim76 Adlı bu repositor içinde bulunduğu alan kullanılmaktadır.
+- Projenin içerikleri repositor içerisinde diğer dosyalarda bulunmaktadır.
 
 ---
