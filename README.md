@@ -117,15 +117,15 @@ Aşağıdaki görsel projenin tamamlanmış durumunu ifade etmektedir.
 ![Backlog 5](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3trello5.jpg) 
 
 - **Ürün Durumu**:
-Aşağıya eklediğimiz ekran görüntüleri dışında daha fazla arayüz görseli Fotoğraflar klasörü içerisinde bulunmaktadır.
-Aynı zamanda ürünun durumu tanıtım videosunda akıcı bir şekilde belitrilecektir.
+Aşağıya eklediğimiz ekran görüntüleri dışında dahav fazla arayüz görseli Fotoğraflar klasörü içerisinde bulunmaktadır.
+Aynı zamanda ürünun durumu tanıtım videosunda akıcı bir şekilde belirtilecektir.
 
   ![Screenshot 1](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3product3.jpg)
   ![Screenshot 2](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3product10.jpg)
-  ![Screenshot 3](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/meeting_4.jpeg)
+  ![Screenshot 3](https://github.com/ZehraHaymeBabacan/FlutterTakim76/blob/main/Fotograflar/s3product4.jpg)
   
 - **Sprint Review**: 
-Alınan kararlar: Ürünümüzün bir veri tabanına sahip olması gerektiği belirlenmiş fakat veri tabanı içeriklerinin kullanıcılar tarafından oluşturulacağı göz önünde bulundurulunca küçük bir örnek seneryo yapılması kararlaştırılmıştır, bu senaryo tanıtım videosunda da görülecektir. Çıkan ürünün web üzerinde çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler, kullanıcılar için takas sisteminin oluşturulması. Satın alınan ürünün geçmiş sahiplerinin görüntülenebilmesi ve ürün üzerinden yorum aracılığla ikili irtibat kurulabilir bir platformun oluşturulabilir.
+Alınan kararlar: Ürünümüzün bir veri tabanına sahip olması gerektiği belirlenmiş fakat veri tabanı içeriklerinin kullanıcılar tarafından oluşturulacağı göz önünde bulundurulunca küçük bir örnek seneryo yapılması kararlanmıştır, bu senaryo tanıtım videosunda da görülecektir. Çıkan ürünün web üzerinde çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler, kullanıcılar için takas sisteminin oluşturulması. Satın alınan ürünün geçmiş sahiplerinin görüntülenebilmesi ve ürün üzerinden yorum aracılığla ikili iritbat kurulabilir bir platformun oluşturulabilir.
 Sprint Review katılımcıları: Tüm takım üyeleri katılmıştır.
 
 - **Sprint Retrospective:**
